@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Car Show Case - A Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
+
+<img width="1280" alt="char-showcase" src="https://github.com/renamcomn/car_showcase/assets/26748562/b9f55889-46c5-4cb4-9274-89d090954cd2">
 
 ## Getting Started
 
